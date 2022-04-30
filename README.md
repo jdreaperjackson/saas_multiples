@@ -7,6 +7,8 @@ Data from SEG SaaS Annual Report 2022, Ycharts, and SEC filings
 
 See data table on pages 40-42 of SEG Annual Report for source data
 
+A handful of SEG index companies were omitted due to incomplete data
+
 Enterprise value = MARKET CAP MINUS CASH PLUS DEBT
 
 ev_ttm_multiple = enterprise value / trailing twelve months revenue
