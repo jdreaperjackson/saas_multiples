@@ -1,6 +1,8 @@
 # saas_multiples
 Group Project for Intro to Data Science and Machine Learning Spring 2022
 
+Predicting SaaS Revenue Multiples of 90 publicly traded companies
+
 Data from SEG SaaS Annual Report 2022, Ycharts, and SEC filings
 
 See data table on pages 40-42 of SEG Annual Report for source data
